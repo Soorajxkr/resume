@@ -239,7 +239,7 @@ h1, h2, h3, h4, h5, h6 {
   height: 100vh;
   background: url("../img/dark-wall-empty-room-with-plants-floor-3d-rendering (2).jpg") top right no-repeat;
   background-size: cover;
-  background-position:centre;
+  background-position:center;
   position: relative;
 }
 @media (min-width: 992px) {
